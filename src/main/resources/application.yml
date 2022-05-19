@@ -1,0 +1,7 @@
+#yaml application.yml file is mixed with application.properties file
+
+logging:
+  level:
+    com: warn
+    #change it to org : warn
+
